@@ -1,0 +1,13 @@
+{
+	"intents" : [ 
+		{
+		"intent" : "GetNews",
+		"slots": [
+			{
+				"name": "source",
+				"type": "LITERAL"
+			}
+		]
+		}
+	]
+}

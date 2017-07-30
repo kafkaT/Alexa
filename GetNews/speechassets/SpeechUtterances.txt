@@ -1,0 +1,9 @@
+GetNews get news from {Wired |source}
+GetNews get news from {Al Jazeera English |source}
+GetNews get news from {Ars Technica |source}
+GetNews get news from {Associated Press |source}
+GetNews get news from {BBC News |source}
+GetNews get news from {Bloomberg |source}
+GetNews get news from {Business Insider |source}
+GetNews get news from {Buzzfeed |source}
+
